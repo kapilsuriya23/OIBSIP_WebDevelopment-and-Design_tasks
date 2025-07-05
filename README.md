@@ -1,6 +1,6 @@
 # 🌐 Oasis Infobyte Internship – Web Development & Designing
 
-This repository contains the completed tasks from my **Web Development and Designing Internship** at **Oasis Infobyte**. Each task showcases a practical project built using HTML, CSS, and JavaScript to strengthen front-end development and UI/UX design skills.
+This repository contains the completed tasks from my **Web Development and Designing Internship** at **Oasis Infobyte**. Each task showcases a practical project built using HTML, CSS, and JavaScript to strengthen front-end development and design.
 
 ---
 
